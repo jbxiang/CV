@@ -1,9 +1,8 @@
 # 贾博翔 大连海事大学
 
 **联系方式**:
-- 地址: 卫津路 92 号 | 南开区, 天津市
+- 地址: 甘井子区凌海路1号 | 大连市, 辽宁省
 - 邮箱: jbx@dlmu.edu.cn
-- 手机: +86 180 0408 2468
 
 **研究方向**: 航运金融，资产定价, 金融大数据, 行为金融, 加密货币
 
@@ -58,3 +57,63 @@ The American Finance Association （会员），Journal of Behavioral and Experi
 ## 学术会议
 - 2019 The Cross Country Perspective in Finance (济南, 2019)
 - 第十二届中国金融工程学年会 (无锡, 2019)
+
+#  English version
+
+# Boxiang Jia Dalian Maritime University
+
+**Contact Information**:
+- Address: Ganjingzi District Linghai Road No. 1 | Dalian City, Liaoning Province
+- Email: jbx@dlmu.edu.cn
+
+**Research Interests**: Shipping Finance, Asset Pricing, Financial Big Data, Behavioral Finance, Cryptocurrency
+
+**Research Honors**: High-level Talent of Dalian, Dalian Youth Science and Technology Star
+
+## Education:
+- **2020-09 to 2024-01**: Tianjin University, Ph.D. in Management Science and Engineering
+- **2018-09 to 2020-06**: Tianjin University, Master’s in Management Science and Engineering
+- **2014-09 to 2018-06**: Dalian Maritime University, Bachelor’s in Logistics Engineering
+
+## Research and Academic Work Experience:
+- **Since May 2024**: Lecturer, School of Shipping Economics and Management, Dalian Maritime University
+- **Since May 2024**: Collaborative Innovation Center for Comprehensive Transportation, Dalian Maritime University
+- **Since May 2024**: Northeast Asia International Shipping Center Research Institute, Liaoning Province, Dalian
+
+## Publications
+
+### Published Papers
+1. Boxiang Jia, Dehua Shen, Wei Zhang. Research on trend timing strategy performance based on the cryptocurrency market. *Systems Science and Mathematics*, 2023, 43(9): 2266-2283. (A-class journal recognized by the National Natural Science Foundation of China)
+2. Boxiang Jia, Dehua Shen, and Wei Zhang. Extreme sentiment and herding: Evidence from the cryptocurrency market. *Research in International Business and Finance*, 63 (2022): 101770. (JCR Q1)
+3. Boxiang Jia, John W. Goodell, and Dehua Shen. Momentum or reversal: Which is the appropriate third factor for cryptocurrencies? *Finance Research Letters*, 45 (2022): 102139. (JCR Q1)
+4. Boxiang Jia, John W. Goodell, and Dehua Shen. US partisan conflict and high-yield exchange rates. *Finance Research Letters*, 40 (2021): 101785. (JCR Q1)
+5. Boxiang Jia, Dehua Shen, and Wei Zhang. Bitcoin market reactions to large price swings of international stock markets. *International Review of Economics and Finance*, 90 (2024): 72-88. (JCR Q1)
+
+### Working Papers
+- Boxiang Jia, Dehua Shen, Wei Zhang. Impact of large international market fluctuations on the Bitcoin market. *International Review of Economics and Finance* (JCR Q1, under revision)
+- Boxiang Jia, Dehua Shen, Wei Zhang. Disruption investing style of Bitcoin: Evidence from China. *International Review of Financial Analysis* (JCR Q1, submitted)
+- Boxiang Jia, Nathan Lael Joseph, Jia Liu, Wei Zhang. Drivers of herding behavior in the cryptocurrency market. *International Journal of Finance & Economics* (JCR Q1)
+- Boxiang Jia, Wei Zhang, Dehua Shen. Price deviation and sentiment in the Chinese stock market. Target journal: *Journal of Financial Research* (A-class journal recognized by the National Natural Science Foundation of China)
+
+## Research Projects
+- **XX Major Project (Innovative Fund)**: Research on the cognitive decision-making behavior of individuals in complex decision-making environments (Project leader, total funding: 100,000 RMB, completed in 2022)
+- **Major Project of the National Natural Science Foundation**: Research on the behavioral patterns and risk effects of micro-participants in financial markets under the background of the Internet (Participant, total funding: 4.55 million RMB, completed in 2022)
+- **National Key R&D Program**: Research and application demonstration of key technologies for intelligent monitoring of bulk commodity price risks (Participant, total funding: 35.9 million RMB, ongoing, initiated in 2023)
+- **National Key R&D Program**: Intelligent technology for bulk cargo handling processes at major ports (Participant, total funding: 88 million RMB, ongoing, initiated in 2023)
+- **General Project of the National Natural Science Foundation**: Research on cryptocurrency market pricing based on alternative data and computational experiment modeling (Participant, total funding: 500,000 RMB, ongoing, initiated in 2023)
+- **Major Special Project of the National Natural Science Foundation**: Computational experiment modeling research based on the complex association between China’s “real economy-financial system” (Participant, total funding: 2 million RMB, ongoing, initiated in 2022)
+- **General Project of the National Natural Science Foundation**: Investor trading network, attention distribution, and asset pricing: Empirical evidence from the cryptocurrency market (Participant, total funding: 560,000 RMB, ongoing, initiated in 2020)
+
+## Teaching Experience
+- **Courses**: Financial Market Studies, Financial Risk Management
+
+## Book Contributions:
+1. *Investor Sentiment and Financial Markets – Based on Financial Big Data* (Authors: Xiong Xiong, Dehua Shen, Yongjie Zhang, Wei Zhang, responsible for organizing chapters 9-12)
+2. *The Book of Alternative Data* (Author: Dehua Shen, responsible for translating chapters 4-6)
+
+## Participation in Academic Organizations and Reviewer Roles:
+Member of The American Finance Association, Reviewer for *Journal of Behavioral and Experimental Finance*, *Asia-Pacific Financial Markets*, *Discrete Dynamics in Nature and Society*, *Research in International Business and Finance*, *Evolutionary and Institutional Economics Review*, *Complexity*
+
+## Academic Conferences
+- 2019 The Cross Country Perspective in Finance (Jinan, 2019)
+- 12th Annual Conference of China Financial Engineering (Wuxi, 2019)
